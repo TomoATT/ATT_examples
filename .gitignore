@@ -169,3 +169,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# vscode
+.vscode/
+
+# gmt
+gmt.history
+
+# output
+OUTPUT_FILES/
+
+tmp.*
+tmp*/
+src_rec_file_rotated.csv
+hawaii*.nc
+test.ipynb
